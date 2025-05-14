@@ -49,7 +49,7 @@ This repository implements the methods from the paper **"Deep Neural OFDM Receiv
 
 ### OFDM System Model
 
-![System Model](figures/bler_vs_ebn0.pdf)
+![System Model](figures/system_model.pdf)
 
 ### Proposed Neural Architecture Overview
 
@@ -57,7 +57,7 @@ This repository implements the methods from the paper **"Deep Neural OFDM Receiv
 
 ### BER & BLER Performance
 # BER Performance 
-![Results](figures/ber_vs_ebn0.pdf)
+![Results](figures/ber_vs_ebn0.png)
 # BLER Performance 
-![Results](figures/bler_vs_ebn0.pdf)
+![Results](figures/bler_vs_ebn0.png)
 
