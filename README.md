@@ -9,7 +9,7 @@ This repository implements the methods from the paper **"Deep Neural OFDM Receiv
 * **Neural Architectures**: Convolutional, recurrent, residual, and attention‑based models (, Dual Attention Transformer (DAT), and Residual Dual Non‑Local Attention Network (RDNLA)).
 * **LLR Estimation**: Direct mapping from received OFDM waveforms to LLRs without explicit demodulation chains.
 * **Performance Evaluation**: BER and BLER curves over a range of \$E\_b/N\_0\$ values.
-* **GPU Acceleration**: Powered by [NVIDIA Sionna v0.19.1](https://github.com/nvidia/sionna).
+* **GPU Acceleration**: Powered by [NVIDIA Sionna v0.19.1](https://github.com/NVlabs/sionna).
 
 ## 📂 Repository Structure
 
