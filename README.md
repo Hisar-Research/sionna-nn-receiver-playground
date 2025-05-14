@@ -56,8 +56,6 @@ This repository implements the methods from the paper **"Deep Neural OFDM Receiv
 ![Architecture](figures/fig2_architecture.png)
 
 ### BER & BLER Performance
-# BER Performance 
 ![Results](figures/ber_vs_ebn0.png)
-# BLER Performance 
 ![Results](figures/bler_vs_ebn0.png)
 
