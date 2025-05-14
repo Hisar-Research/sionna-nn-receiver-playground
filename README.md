@@ -1,7 +1,7 @@
 # sionna-nn-receiver-playground
 
 A collection of Jupyter Notebook experiments demonstrating "Novel Deep Neural OFDM Receiver Architectures for LLR Estimation" estimation using NVIDIA Sionna.
-
+The notebooks will be released upon acceptance of the paper.
 ## 📖 Paper Overview
 
 This repository implements the methods from the paper **"Deep Neural OFDM Receivers for LLR Estimation"**, showcasing:
@@ -49,11 +49,11 @@ This repository implements the methods from the paper **"Deep Neural OFDM Receiv
 
 ### OFDM System Model
 
-![System Model](figures/system_model.pdf)
+![System Model](figures/system-model.png)
 
-### Proposed Neural Architecture Overview
+### Proposed Neural Network Architectures for LLR Estimation DAT and RDNLA
 
-![Architecture](figures/fig2_architecture.png)
+![Architecture](figures/dl-diagrams.png)
 
 ### BER & BLER Performance
 ![Results](figures/ber_vs_ebn0.png)
